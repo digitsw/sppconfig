@@ -1,0 +1,2 @@
+# sppconfig
+slackpkg plus configuration
