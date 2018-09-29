@@ -7,4 +7,5 @@ sppconfig `slackpkg plus` Customization and Configuration for `slackpkg` slackwa
 1. Official slackware packages 
 2. Ktown "KDE Plasma 5" packages
 3. AlienBob packages
+4. And more repo ...
 + No conflict with official or Unofficial packages
