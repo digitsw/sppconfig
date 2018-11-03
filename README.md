@@ -9,3 +9,6 @@ sppconfig `slackpkg plus` Customization and Configuration for `slackpkg` slackwa
 3. AlienBob packages
 4. And more repo ...
 + No conflict with official or Unofficial packages
+
+## Note : 
+This Config work only with x64 version
